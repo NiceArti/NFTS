@@ -8,6 +8,7 @@ Link to deployed contract(ERC1155): [link](https://kovan.etherscan.io/address/0x
 
 
 ERC721: 0x11171a4aB6528767dbFf72Bd14458Cc3850264ec
+
 ERC1155: 0x10855C773e17Ae765224E768912038307A451A9f
 
 

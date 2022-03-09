@@ -4,13 +4,16 @@ Staking Pool contract for UniswapV2LP and INT
 
 
 Link to deployed contract(ERC721): [link](https://kovan.etherscan.io/address/0x11171a4aB6528767dbFf72Bd14458Cc3850264ec)
+
 Link to deployed contract(ERC1155): [link](https://kovan.etherscan.io/address/0x10855C773e17Ae765224E768912038307A451A9f)
 
+---
 
 ERC721: 0x11171a4aB6528767dbFf72Bd14458Cc3850264ec
 
 ERC1155: 0x10855C773e17Ae765224E768912038307A451A9f
 
+---
 
 - OpenZeppelin library: [link](https://github.com/OpenZeppelin/openzeppelin-contracts)
 

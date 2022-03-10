@@ -1,6 +1,4 @@
-# Staking Pool contract
-
-NFT contracts for opensea
+# NFT contracts for opensea
 
 
 Link to deployed contract(ERC721): [link](https://rinkeby.etherscan.io/address/0x11171a4aB6528767dbFf72Bd14458Cc3850264ec)

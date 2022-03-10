@@ -1,11 +1,11 @@
 # Staking Pool contract
 
-Staking Pool contract for UniswapV2LP and INT
+NFT contracts for opensea
 
 
-Link to deployed contract(ERC721): [link](https://kovan.etherscan.io/address/0x11171a4aB6528767dbFf72Bd14458Cc3850264ec)
+Link to deployed contract(ERC721): [link](https://rinkeby.etherscan.io/address/0x11171a4aB6528767dbFf72Bd14458Cc3850264ec)
 
-Link to deployed contract(ERC1155): [link](https://kovan.etherscan.io/address/0x10855C773e17Ae765224E768912038307A451A9f)
+Link to deployed contract(ERC1155): [link](https://rinkeby.etherscan.io/address/0x10855C773e17Ae765224E768912038307A451A9f)
 
 ---
 
